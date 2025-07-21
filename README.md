@@ -53,4 +53,18 @@ A sleek, responsive, and secure password manager built using **React** for the f
    ```bash
    npm install
    npm run dev
+## 📸 Screenshots
+
+PassMan offers a clean and responsive interface built with React and Tailwind CSS. Here's how it looks:
+
+### 🔒 Default Desktop View
+![Default Desktop View](default.jpeg)
+
+### 📱 Mobile View
+![Mobile View](mobile.jpeg)
+
+### 🗂️ Password Management Interface
+![Password Management](password.jpeg)
+
+
 
