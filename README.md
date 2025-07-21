@@ -1,12 +1,56 @@
-# React + Vite
+# 🔐 Passman - Password Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, responsive, and secure password manager built using **React** for the frontend and **Node.js + MongoDB** for backend (coming soon). It allows users to securely store, copy, update, and manage login credentials for their websites.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add and save website credentials
+- ✅ Edit or delete stored passwords
+- ✅ Copy site URL, username, or password with one click
+- ✅ Toggle password visibility
+- ✅ Toast notifications for actions
+- ✅ Responsive UI (mobile-friendly)
+- ✅ LocalStorage support (frontend-only version)
+- 🔜 Backend support with MongoDB & Express (in progress)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Demo
+
+> You can view the live version here:  
+**[🔗 GitHub Pages Live Link](https://ristonrodz.github.io/password_manager/)**
+
+---
+
+## 📦 Technologies Used
+
+| Frontend        | Tools / Libraries             |
+|-----------------|-------------------------------|
+| React           | Functional Components + Hooks |
+| Tailwind CSS    | For styling and layout        |
+| React Toastify  | Toast notifications           |
+| LocalStorage    | Temporary password storage    |
+| UUID            | Unique IDs for passwords      |
+
+---
+
+## 🧠 Folder Structure
+
+
+---
+
+## 💡 How to Use
+
+### 🛠️ Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/RISTONRODZ/password_manager.git
+   cd password_manager
+2. run :
+   ```bash
+   npm install
+   npm run dev
+
