@@ -1,5 +1,5 @@
 import React from 'react'
-
+import githubIcon from '../assets/github.svg'
 const Navbar = () => {
   return (
     <>
@@ -15,13 +15,17 @@ const Navbar = () => {
               man/ &gt;
             </span>
           </div>
-          <ul>
+          {/* <ul>
             <li className='flex gap-4'>
               <a className='hover:font-bold' href="#">Home</a>
               <a className='hover:font-bold' href="#">About</a>
               <a className='hover:font-bold' href="#">Contact</a>
             </li>
-          </ul>
+          </ul> */}
+          <div className="flex items-end gap-3">
+            <img className='invert ' src={githubIcon} alt="" />
+            <span className="">Github</span>
+          </div>
         </div>
       </nav>
     </>
