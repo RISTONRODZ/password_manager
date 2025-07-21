@@ -1,6 +1,6 @@
 # 🔐 Passman - Password Manager
 
-A sleek, responsive, and secure password manager built using **React** for the frontend and **Node.js + MongoDB** for backend (coming soon). It allows users to securely store, copy, update, and manage login credentials for their websites.
+A sleek, responsive, and secure password manager built using **React** for the frontend and **Node.js + MongoDB** for backend . It allows users to securely store, copy, update, and manage login credentials for their websites.
 
 ---
 
@@ -12,8 +12,8 @@ A sleek, responsive, and secure password manager built using **React** for the f
 - ✅ Toggle password visibility
 - ✅ Toast notifications for actions
 - ✅ Responsive UI (mobile-friendly)
-- ✅ LocalStorage support (frontend-only version)
-- 🔜 Backend support with MongoDB & Express (in progress)
+- ✅ LocalStorage support 
+- ✅ Backend support with MongoDB & Express 
 
 ---
 
